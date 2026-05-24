@@ -27,7 +27,7 @@ function App() {
         <footer className="py-12 mt-20 relative z-10 glass-panel border-x-0 border-b-0 border-t items-center flex flex-col justify-center gap-4">
           <h2 className="text-3xl font-bold text-[var(--color-text-primary)]">What's Next?</h2>
           <p className="text-[var(--color-text-secondary)] text-center max-w-md mx-auto mb-6">
-            Although I'm not currently looking for any new opportunities, my inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
+            Although I'm currently looking for any new opportunities, my inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
           </p>
           <a 
             href="mailto:hello@example.com" 
